@@ -39,6 +39,5 @@ He/Him/His
 
 #### ⚡ Fun Fact
 
-- 🤔 I’m looking for help with 
-- ⚡ Fun fact: I have diverse interests outside of cybersecurity. When I'm not immersed in the world of coding and cybersecurity, you might find me engaged in a game of chess, expressing my creativity through sketching and drawing. Here's an interesting fact about me – I have a unique ability to code and write poems simultaneously, blending the worlds of technology and artistic expression.
+- I have diverse interests outside of cybersecurity. When I'm not immersed in the world of coding and cybersecurity, you might find me engaged in a game of chess, expressing my creativity through sketching and drawing. Here's an interesting fact about me – I have a unique ability to code and write poems simultaneously, blending the worlds of technology and artistic expression.
 
