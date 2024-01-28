@@ -2,7 +2,7 @@
 **CustosClarus/CustosClarus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Custos Clarus, a Cyber Security Expert with 16 years of professional experience in Enterprise security design, development, and operations based upon defensive and offensive principles.
+I'm Custos Clarus 🔰 , a Cyber Security Expert with 16 years of professional experience in Enterprise security design, development, and operations based upon defensive and offensive principles.
 
 #### 🚀 The Meaning of "Custos Clarus"
 
