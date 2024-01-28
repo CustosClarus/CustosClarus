@@ -31,7 +31,7 @@ Feel free to ask me about any cybersecurity-related topics, including security b
 
 #### 📫 How to Reach Me
 
-You can reach me on GitHub or connect with me on [LinkedIn](#) https://www.linkedin.com/in/asad-ali85/. Also I'm top rated Upwork Cyber-security Freelancer [Upwork] https://www.upwork.com/freelancers/asadali85
+You can reach me on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/asad-ali85/). Also I'm top rated Upwork Cyber-security Freelancer [Upwork](https://www.upwork.com/freelancers/asadali85)
 
 #### 😄 Pronouns
 
