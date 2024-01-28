@@ -12,11 +12,14 @@ I'm Custos Clarus, a Cyber Security Expert with 16 years of professional experie
 
 #### 🔭 Current Work
 
-I'm currently working as a Cyber Security Consultant for [Kidan.co](https://kidan.co), where I'm in charge of providing high-end IT security services to clients. My role involves implementing technologies like PAM, SIEM, DLP, and IAM in multiple deployment scenarios, both on-premise and in the cloud.
+I'm currently working as a Cyber Security Consultant for a Swiss IT-based security company, passionately spending my time in the offensive security trenches. I thrive on the thrill of battling through certifications like PNPT, OSCP, and a variety of other exciting credentials. My role involves delivering top-notch IT security services, specializing in implementing technologies such as PAM, SIEM, DLP, and IAM across various deployment scenarios, both on-premise and in the cloud.
 
 #### 🌱 Learning Journey
 
-My expertise spans multiple layers of cybersecurity, including Threat Modelling, Security Operations, Auditing & Logging, SIEM Operations (ELK, Graylog, IBM Qradar), Risk Analysis, Data security & compliance, Vulnerability analysis, and Pen-testing. I specialize in Windows Security (exploitation) and Security automation and scripting.
+I began my career in 2008, just a year after graduating with a Bachelor's degree in Software Engineering. My initial role was as an Information Security Engineer for a large defense system integrator organization. Subsequently, I transitioned to working for a government agency responsible for the World's Largest Biometric Citizen Database, where I played a pivotal role in establishing the first SOC/SIEM platform.
+
+After resigning, between 2010 and 2023, I gained diverse experience in nearly every significant cybersecurity domain, including architecture, design, SDLC (Agile Scrum Master), ethical hacking, security audit, and compliance. My passion lies in building my GitHub repository as a collection of tools, gadgets, and code that provide mindful security rather than simply reinventing the wheel.
+
 
 #### 👯 Collaboration
 
@@ -28,19 +31,14 @@ Feel free to ask me about any cybersecurity-related topics, including security b
 
 #### 📫 How to Reach Me
 
-You can reach me on GitHub or connect with me on [LinkedIn](#) [https://www.linkedin.com/in/asad-ali85/].
+You can reach me on GitHub or connect with me on [LinkedIn](#) https://www.linkedin.com/in/asad-ali85/. Also I'm top rated Upwork Cyber-security Freelancer [Upwork] https://www.upwork.com/freelancers/asadali85
 
 #### 😄 Pronouns
 
-[Add your preferred pronouns here.]
+He/Him/His
 
 #### ⚡ Fun Fact
 
-[Share an interesting or fun fact about yourself.]
+- 🤔 I’m looking for help with 
+- ⚡ Fun fact: I have diverse interests outside of cybersecurity. When I'm not immersed in the world of coding and cybersecurity, you might find me engaged in a game of chess, expressing my creativity through sketching and drawing. Here's an interesting fact about me – I have a unique ability to code and write poems simultaneously, blending the worlds of technology and artistic expression.
 
-<!--
-Here are some ideas to get you started:
-
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
--->
